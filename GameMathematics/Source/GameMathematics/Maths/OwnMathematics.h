@@ -17,4 +17,6 @@ public:
 	float Square(float value);
 	float GetDistance(Coordinates vector1,Coordinates vector2);
 	Coordinates GetNormal(Coordinates vector);
+
+	float GetDotProduct(Coordinates vector1,Coordinates vector2);
 };

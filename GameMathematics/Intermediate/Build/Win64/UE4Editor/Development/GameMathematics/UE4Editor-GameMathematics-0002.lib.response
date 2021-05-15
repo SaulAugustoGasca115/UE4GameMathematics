@@ -7,11 +7,17 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\GameMathematicsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\Coordinates.cpp.obj"
+"D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\DebugHUD.cpp.obj"
+"D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\ShipHUD.cpp.obj"
+"D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\OwnMathematics.cpp.obj"
 "D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\ShipPawn.cpp.obj"
 "D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\GameMathematics.cpp.obj"
 "D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\GameMathematicsGameModeBase.cpp.obj"
+"D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\DebugHUD.gen.cpp.obj"
 "D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\GameMathematics.init.gen.cpp.obj"
 "D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\GameMathematicsGameModeBase.gen.cpp.obj"
+"D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\ShipHUD.gen.cpp.obj"
 "D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\ShipPawn.gen.cpp.obj"
 "D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\Default.rc2.res"
 /OUT:"D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0002.lib"

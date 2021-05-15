@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GameMathematics.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{A9FC5102-43E1-44A1-9749-93FC1F622FBB}</UniqueIdentifier>
+      <UniqueIdentifier>{AF147991-7BBE-40E4-8294-1BFA3B2F39FB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GameMathematics.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{66141FEA-0DDE-47B5-8510-D48004E35F5D}</UniqueIdentifier>
+      <UniqueIdentifier>{8DB11719-F8F0-493B-9036-0DE85D2B2677}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\GameMathematics">
-      <UniqueIdentifier>{52C42142-1DD2-42BA-B72C-F29F496F015A}</UniqueIdentifier>
+      <UniqueIdentifier>{073ECB64-69A1-493A-8D39-8614724CB608}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GameMathematics\GameMathematics.Build.cs">
       <Filter>Source\GameMathematics</Filter>
@@ -42,7 +42,7 @@
       <Filter>Source\GameMathematics</Filter>
     </ClInclude>
     <Filter Include="Source\GameMathematics\Customize">
-      <UniqueIdentifier>{A687ED61-0E29-4673-9366-D51204ED6547}</UniqueIdentifier>
+      <UniqueIdentifier>{9FE6059E-B0B0-487E-A0B8-818DAAFBBE87}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\GameMathematics\Customize\Coordinates.cpp">
       <Filter>Source\GameMathematics\Customize</Filter>
@@ -50,8 +50,23 @@
     <ClInclude Include="..\..\Source\GameMathematics\Customize\Coordinates.h">
       <Filter>Source\GameMathematics\Customize</Filter>
     </ClInclude>
+    <Filter Include="Source\GameMathematics\HUD">
+      <UniqueIdentifier>{59A19335-8710-4AC0-BC82-58DD41A9AE33}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameMathematics\HUD\DebugHUD.cpp">
+      <Filter>Source\GameMathematics\HUD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameMathematics\HUD\DebugHUD.h">
+      <Filter>Source\GameMathematics\HUD</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameMathematics\HUD\ShipHUD.cpp">
+      <Filter>Source\GameMathematics\HUD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameMathematics\HUD\ShipHUD.h">
+      <Filter>Source\GameMathematics\HUD</Filter>
+    </ClInclude>
     <Filter Include="Source\GameMathematics\Maths">
-      <UniqueIdentifier>{01EB3394-1C2B-4662-B2C8-BE7C1ABC8A44}</UniqueIdentifier>
+      <UniqueIdentifier>{B945B053-3FC1-4D22-A1E8-C1F82D723925}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\GameMathematics\Maths\OwnMathematics.cpp">
       <Filter>Source\GameMathematics\Maths</Filter>
@@ -60,7 +75,7 @@
       <Filter>Source\GameMathematics\Maths</Filter>
     </ClInclude>
     <Filter Include="Source\GameMathematics\Pawns">
-      <UniqueIdentifier>{771ACECC-80E7-4C57-B877-71AD5B268C3A}</UniqueIdentifier>
+      <UniqueIdentifier>{B41913F9-56ED-4700-88E6-EE4F4083E51A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\GameMathematics\Pawns\ShipPawn.cpp">
       <Filter>Source\GameMathematics\Pawns</Filter>

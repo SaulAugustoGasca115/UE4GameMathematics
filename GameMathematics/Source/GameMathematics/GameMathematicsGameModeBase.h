@@ -13,5 +13,9 @@ UCLASS()
 class GAMEMATHEMATICS_API AGameMathematicsGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+public:
+
+	AGameMathematicsGameModeBase();
 	
 };

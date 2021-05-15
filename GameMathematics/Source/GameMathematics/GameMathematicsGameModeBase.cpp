@@ -2,4 +2,11 @@
 
 
 #include "GameMathematicsGameModeBase.h"
+#include "./HUD/DebugHUD.h"
 
+AGameMathematicsGameModeBase::AGameMathematicsGameModeBase()
+{
+	PrimaryActorTick.bCanEverTick = true;
+
+	HUDClass = ADebugHUD::StaticClass();
+}

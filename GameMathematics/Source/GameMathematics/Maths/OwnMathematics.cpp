@@ -12,6 +12,8 @@ OwnMathematics::~OwnMathematics()
 {
 }
 
+
+//Get Normal Section
 float OwnMathematics::Square(float value)
 {
 	return value * value;
@@ -33,4 +35,12 @@ Coordinates OwnMathematics::GetNormal(Coordinates vector)
 	vector.Z /= length;
 	
 	return vector;
+}
+
+
+//Get The DotProduct
+
+float OwnMathematics::GetDotProduct(Coordinates vector1, Coordinates vector2)
+{
+	return (vector1.X * vector2.X) +(vector1.Y * vector2.Y) + (vector1.Z * vector2.Z);
 }
