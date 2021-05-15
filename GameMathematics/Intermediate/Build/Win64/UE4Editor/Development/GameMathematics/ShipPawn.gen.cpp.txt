@@ -1,0 +1,5 @@
+D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\Definitions.GameMathematics.h
+D:\Program Files\Epic Games\UE_4.25\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.25\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Source\GameMathematics/Pawns/ShipPawn.h
+D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Inc\GameMathematics\ShipPawn.generated.h

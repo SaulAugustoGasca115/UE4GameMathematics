@@ -1,0 +1,2 @@
+*.umap,*.uasset, filter=lfs diff=lfs merge=lfs -text
+*.fbx,*.3ds,*.psd,*.png,*.mp3,*.wav,*.xcf,*.jpg filter=lfs diff=lfs merge=lfs -text

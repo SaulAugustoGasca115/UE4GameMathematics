@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameMathematics",
+			"Path": "D:\\UnrealProjects\\OwnProjects\\UE4GameMathematics\\GameMathematics\\Source\\GameMathematics.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameMathematicsEditor",
+			"Path": "D:\\UnrealProjects\\OwnProjects\\UE4GameMathematics\\GameMathematics\\Source\\GameMathematicsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProjects\\OwnProjects\\UE4GameMathematics\\GameMathematics\\Source\\GameMathematics\\GameMathematics.Build.cs",
+		"D:\\UnrealProjects\\OwnProjects\\UE4GameMathematics\\GameMathematics\\Source\\GameMathematics.Target.cs",
+		"D:\\UnrealProjects\\OwnProjects\\UE4GameMathematics\\GameMathematics\\Source\\GameMathematicsEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

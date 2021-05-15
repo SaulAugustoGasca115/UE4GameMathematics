@@ -1,0 +1,3 @@
+D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\Definitions.GameMathematics.h
+D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Source\GameMathematics\Pawns\ShipPawn.h
+D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Inc\GameMathematics\ShipPawn.generated.h
