@@ -19,6 +19,15 @@ public:
 	UPROPERTY(EditAnywhere,BlueprintReadWrite,Category="MeshComponent")
 	UStaticMeshComponent* ShipMesh;
 
+	UPROPERTY(EditAnywhere)
+	FVector Direction;
+
+	UPROPERTY(EditAnywhere)
+	float Speed;
+
+	class Coordinates* coordinates;
+	class OwnMathematics* mathematics;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

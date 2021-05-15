@@ -3,10 +3,10 @@
   Using Visual Studio 2019 14.28.29910 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 8 processes...
     [1/4] ShipPawn.cpp
-    [2/4] UE4Editor-GameMathematics-0005.lib
-       Creating library D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0005.lib and object D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0005.exp
-    [3/4] UE4Editor-GameMathematics-0005.dll
-       Creating library D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0005.suppressed.lib and object D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0005.suppressed.exp
+    [2/4] UE4Editor-GameMathematics-0016.lib
+       Creating library D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0016.lib and object D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0016.exp
+    [3/4] UE4Editor-GameMathematics-0016.dll
+       Creating library D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0016.suppressed.lib and object D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-0016.suppressed.exp
     [4/4] GameMathematicsEditor.target
-  Total time in Parallel executor: 1.89 seconds
-  Total execution time: 2.67 seconds
+  Total time in Parallel executor: 1.70 seconds
+  Total execution time: 2.44 seconds

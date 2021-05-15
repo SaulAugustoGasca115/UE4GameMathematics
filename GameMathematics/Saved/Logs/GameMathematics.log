@@ -944,3 +944,1049 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.15-15.54.47:723][877]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
 [2021.05.15-15.54.47:723][877]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
 [2021.05.15-15.56.10:745][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.15-15.59.08:810][877]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-15.59.08:911][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-15.59.08:911][877]PIE: New page: PIE session: 2DMathematics (May 15, 2021, 5:59:08 AM)
+[2021.05.15-15.59.08:912][877]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.15-15.59.08:913][877]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.15-15.59.08:913][877]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-15.59.08:916][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002340s)
+[2021.05.15-15.59.08:917][877]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-15.59.08:917][877]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000274ECA0A800), frame # 22877
+[2021.05.15-15.59.08:918][877]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000274EB65D580), frame # 22877
+[2021.05.15-15.59.08:918][877]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2021.05.15-15.59.08:918][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004491s)
+[2021.05.15-15.59.08:943][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.05.15-15.59.08:945][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-15.59.08:945][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-15.59.08:945][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-15.59.08:945][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-15.59.08:945][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-15.59.08:945][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-15.59.08:945][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-15.59.08:945][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-15.59.08:946][877]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-15.59.08:946][877]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-15.59.08:947][877]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-15.59.08:948][877]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-15.59.09:039][877]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-15.59.09:040][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-15.59.09:040][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-15.59.09:040][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-15.59.09:040][877]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-15.59.09:056][877]LogInit: FAudioDevice initialized.
+[2021.05.15-15.59.09:089][877]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-15.59.09:091][877]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-10.59.09
+[2021.05.15-15.59.09:091][877]LogWorld: Bringing up level for play took: 0.000747
+[2021.05.15-15.59.09:092][877]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.05.15-15.59.09:131][877]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.05.15-15.59.09:153][877]PIE: Server logged in
+[2021.05.15-15.59.09:155][877]PIE: Play in editor total start time 0.34 seconds.
+[2021.05.15-15.59.12:082][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-15.59.12:082][ 29]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-15.59.12:082][ 29]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-15.59.12:082][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-15.59.12:094][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-15.59.12:098][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-15.59.12:141][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-15.59.12:148][ 29]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000274EB65D580), frame # 23029
+[2021.05.15-15.59.12:148][ 29]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000274ECA0A800), frame # 23029
+[2021.05.15-15.59.12:172][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.05.15-15.59.12:191][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.05.15-15.59.24:562][765]Cmd: DELETE
+[2021.05.15-15.59.24:562][765]Cmd: ACTOR DELETE
+[2021.05.15-15.59.24:774][765]LogEditorActor: Deleted Actor: PlayerStart
+[2021.05.15-15.59.24:804][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.05.15-15.59.24:806][765]LogEditorActor: Deleted 1 Actors (0.173 secs)
+[2021.05.15-15.59.26:160][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.15-15.59.26:171][840]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematicsDDF7AB6C4110ECBCBE6C7A8F10FB082D.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-15.59.26:186][840]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltData22829BF343404E3E0BDA93965FE0DD06.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-15.59.26:204][840]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-15.59.26:204][840]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-15.59.26:204][840]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-15.59.27:637][923]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-15.59.27:645][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-15.59.27:645][923]PIE: New page: PIE session: 2DMathematics (May 15, 2021, 5:59:27 AM)
+[2021.05.15-15.59.27:690][923]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-15.59.27:693][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002127s)
+[2021.05.15-15.59.27:694][923]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-15.59.27:694][923]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002750CE24A00), frame # 23923
+[2021.05.15-15.59.27:695][923]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002750CE40F40), frame # 23923
+[2021.05.15-15.59.27:695][923]LogPlayLevel: PIE: World Init took: (0.002280s)
+[2021.05.15-15.59.27:695][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004698s)
+[2021.05.15-15.59.27:718][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.05.15-15.59.27:719][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-15.59.27:719][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-15.59.27:719][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-15.59.27:719][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-15.59.27:719][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-15.59.27:719][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-15.59.27:719][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-15.59.27:719][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-15.59.27:719][923]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-15.59.27:719][923]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-15.59.27:722][923]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-15.59.27:722][923]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-15.59.27:800][923]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-15.59.27:800][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-15.59.27:800][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-15.59.27:801][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-15.59.27:802][923]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-15.59.27:818][923]LogInit: FAudioDevice initialized.
+[2021.05.15-15.59.27:830][923]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-15.59.27:832][923]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-10.59.27
+[2021.05.15-15.59.27:832][923]LogWorld: Bringing up level for play took: 0.000532
+[2021.05.15-15.59.27:832][923]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.05.15-15.59.27:834][923]PIE: Server logged in
+[2021.05.15-15.59.27:835][923]PIE: Play in editor total start time 0.191 seconds.
+[2021.05.15-15.59.29:351][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-15.59.29:351][ 12]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-15.59.29:351][ 12]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-15.59.29:351][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-15.59.29:358][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-15.59.29:362][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-15.59.29:386][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-15.59.29:407][ 12]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002750CE40F40), frame # 24012
+[2021.05.15-15.59.29:407][ 12]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002750CE24A00), frame # 24012
+[2021.05.15-15.59.29:410][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.05.15-15.59.29:427][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.05.15-16.00.29:294][535]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.15-16.00.53:397][477]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-16.00.55:265][566]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.05.15-16.01.30:860][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.05.15-16.01.35:392][309]LogSlate: Window 'Save Content' being destroyed
+[2021.05.15-16.01.35:444][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.05.15-16.01.35:461][309]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics7F71174F4DDAD02E992309BDD1092945.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-16.01.35:468][309]LogFileHelpers: Saving map '2DMathematics' took 0.050
+[2021.05.15-16.01.35:553][309]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltData9C860663453069A9E8B910BAF90D82C6.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-16.01.35:574][309]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-16.01.35:574][309]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-16.01.35:574][309]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-16.02.03:778][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.15-16.02.04:844][437]LogSlate: Window 'Save Content' being destroyed
+[2021.05.15-16.02.04:902][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.15-16.02.04:916][437]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematicsA2A301604909E58F1B938BB3A85F2614.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-16.02.04:925][437]LogFileHelpers: Saving map '2DMathematics' took 0.049
+[2021.05.15-16.02.05:062][437]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltDataAB75554D43CF99D4F17CF59543383F01.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-16.02.05:081][437]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-16.02.05:081][437]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-16.02.05:081][437]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-16.02.06:764][534]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-16.02.06:772][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-16.02.06:772][534]PIE: New page: PIE session: 2DMathematics (May 15, 2021, 6:02:06 AM)
+[2021.05.15-16.02.06:772][534]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-16.02.06:775][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002311s)
+[2021.05.15-16.02.06:776][534]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-16.02.06:776][534]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002750CEEAA00), frame # 31534
+[2021.05.15-16.02.06:776][534]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275066B6340), frame # 31534
+[2021.05.15-16.02.06:777][534]LogPlayLevel: PIE: World Init took: (0.002089s)
+[2021.05.15-16.02.06:777][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004572s)
+[2021.05.15-16.02.06:802][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.15-16.02.06:803][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-16.02.06:803][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-16.02.06:803][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-16.02.06:803][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-16.02.06:803][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-16.02.06:803][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-16.02.06:803][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-16.02.06:803][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-16.02.06:804][534]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-16.02.06:804][534]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-16.02.06:806][534]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-16.02.06:806][534]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-16.02.06:883][534]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-16.02.06:884][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-16.02.06:884][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-16.02.06:884][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-16.02.06:885][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-16.02.06:900][534]LogInit: FAudioDevice initialized.
+[2021.05.15-16.02.06:910][534]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-16.02.06:911][534]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-11.02.06
+[2021.05.15-16.02.06:911][534]LogWorld: Bringing up level for play took: 0.000893
+[2021.05.15-16.02.06:912][534]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.05.15-16.02.06:913][534]PIE: Server logged in
+[2021.05.15-16.02.06:914][534]PIE: Play in editor total start time 0.143 seconds.
+[2021.05.15-16.02.08:542][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-16.02.08:542][630]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-16.02.08:542][630]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-16.02.08:542][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-16.02.08:554][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-16.02.08:557][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-16.02.08:599][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-16.02.08:600][630]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002750CEEAA00), frame # 31630
+[2021.05.15-16.02.08:600][630]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275066B6340), frame # 31630
+[2021.05.15-16.02.08:603][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.05.15-16.02.08:628][631]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.05.15-16.02.12:058][834]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.05.15-16.02.17:115][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.15-16.02.18:286][127]LogSlate: Window 'Save Content' being destroyed
+[2021.05.15-16.02.18:350][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.15-16.02.18:363][127]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics05B670D84391F9B371A116B13E15D5DA.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-16.02.18:371][127]LogFileHelpers: Saving map '2DMathematics' took 0.046
+[2021.05.15-16.02.18:475][127]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltDataF5FA39764C91893FC8EB92898AE9D737.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-16.02.18:495][127]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-16.02.18:495][127]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-16.02.18:495][127]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-16.02.20:304][230]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-16.02.20:309][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-16.02.20:309][230]PIE: New page: PIE session: 2DMathematics (May 15, 2021, 6:02:20 AM)
+[2021.05.15-16.02.20:309][230]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-16.02.20:311][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002430s)
+[2021.05.15-16.02.20:313][230]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-16.02.20:313][230]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002751D652400), frame # 32230
+[2021.05.15-16.02.20:313][230]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275049BFC40), frame # 32230
+[2021.05.15-16.02.20:313][230]LogPlayLevel: PIE: World Init took: (0.001728s)
+[2021.05.15-16.02.20:313][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004340s)
+[2021.05.15-16.02.20:338][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.15-16.02.20:339][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-16.02.20:339][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-16.02.20:339][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-16.02.20:339][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-16.02.20:339][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-16.02.20:339][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-16.02.20:339][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-16.02.20:339][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-16.02.20:339][230]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-16.02.20:339][230]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-16.02.20:342][230]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-16.02.20:342][230]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-16.02.20:418][230]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-16.02.20:419][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-16.02.20:419][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-16.02.20:419][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-16.02.20:419][230]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-16.02.20:435][230]LogInit: FAudioDevice initialized.
+[2021.05.15-16.02.20:443][230]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-16.02.20:444][230]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-11.02.20
+[2021.05.15-16.02.20:444][230]LogWorld: Bringing up level for play took: 0.000504
+[2021.05.15-16.02.20:445][230]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.05.15-16.02.20:447][230]PIE: Server logged in
+[2021.05.15-16.02.20:447][230]PIE: Play in editor total start time 0.139 seconds.
+[2021.05.15-16.02.22:723][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-16.02.22:723][359]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-16.02.22:723][359]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-16.02.22:723][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-16.02.22:733][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-16.02.22:737][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-16.02.22:780][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-16.02.22:781][359]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275049BFC40), frame # 32359
+[2021.05.15-16.02.22:781][359]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002751D652400), frame # 32359
+[2021.05.15-16.02.22:783][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.05.15-16.02.22:809][360]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.15-16.02.43:436][228]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.05.15-16.02.43:436][228]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.05.15-16.02.45:732][346]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.05.15-16.03.04:466][459]Running D:/Program Files/Epic Games/UE_4.25/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/GameMathematics.uproject" -game -rocket -progress
+[2021.05.15-16.03.05:080][459]Discovering modules, targets and source code for project...
+[2021.05.15-16.03.06:992][459]Binding IntelliSense data...
+[2021.05.15-16.03.09:226][459]Binding IntelliSense data... 100%
+[2021.05.15-16.03.09:226][459]Writing project files...
+[2021.05.15-16.03.13:456][459]Writing project files... 100%
+[2021.05.15-16.03.13:608][459]Candidate modules for hot reload:
+[2021.05.15-16.03.13:609][459]  GameMathematics
+[2021.05.15-16.03.13:609][459]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.25/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GameMathematics,8550 GameMathematicsEditor Win64 Development -Project="D:/UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/GameMathematics.uproject" "D:/UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/GameMathematics.uproject"  -IgnoreJunk]
+[2021.05.15-16.03.18:385][459]CompilerResultsLog: New page: Compilation - May 15, 2021, 6:03:18 AM
+[2021.05.15-16.03.18:385][459]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealProjects\OwnProjects\UE4GameMathematics).
+[2021.05.15-16.03.18:385][459]CompilerResultsLog: Creating makefile for GameMathematicsEditor (no existing makefile)
+[2021.05.15-16.03.18:385][459]CompilerResultsLog: Building GameMathematicsEditor...
+[2021.05.15-16.03.18:385][459]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.15-16.03.18:385][459]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.05.15-16.03.18:385][459]CompilerResultsLog:   [1/4] Coordinates.cpp
+[2021.05.15-16.03.18:385][459]CompilerResultsLog:   [2/4] UE4Editor-GameMathematics-8550.lib
+[2021.05.15-16.03.18:385][459]CompilerResultsLog:      Creating library D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-8550.lib and object D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-8550.exp
+[2021.05.15-16.03.18:385][459]CompilerResultsLog:   [3/4] UE4Editor-GameMathematics-8550.dll
+[2021.05.15-16.03.18:385][459]CompilerResultsLog:      Creating library D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-8550.suppressed.lib and object D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-8550.suppressed.exp
+[2021.05.15-16.03.18:385][459]CompilerResultsLog:   [4/4] GameMathematicsEditor.target
+[2021.05.15-16.03.18:385][459]CompilerResultsLog: Total time in Parallel executor: 1.75 seconds
+[2021.05.15-16.03.18:385][459]CompilerResultsLog: Total execution time: 4.53 seconds
+[2021.05.15-16.03.18:385][459]LogMainFrame: MainFrame: Module compiling took 4.782 seconds
+[2021.05.15-16.03.18:401][459]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0008 seconds. Added 2 classes and 3 folders.
+[2021.05.15-16.03.18:407][459]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-16.03.18:521][459]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-16.03.18:521][459]Display: HotReload took  5.0s.
+[2021.05.15-16.03.18:521][459]Warning: HotReload operation took  5.0s.
+[2021.05.15-16.03.20:030][459]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Source/GameMathematics/Customize/Coordinates.h'
+[2021.05.15-16.03.20:031][459]LogVSAccessor: Warning: Couldn't open file 'D:/UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Source/GameMathematics/Customize/Coordinates.cpp'.
+[2021.05.15-16.03.20:047][459]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.05.15-16.03.20:425][459]LogHotReload: New module detected: UE4Editor-GameMathematics-8550.dll
+[2021.05.15-16.03.20:483][460]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-16.03.20:515][460]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2021.05.15-16.03.20:520][460]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-16.03.20:537][460]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-16.03.20:542][460]Display: HotReload took  0.1s.
+[2021.05.15-16.06.40:537][ 57]LogHotReload: New module detected: UE4Editor-GameMathematics-0007.dll
+[2021.05.15-16.06.41:890][ 62]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-16.06.41:937][ 62]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2021.05.15-16.06.41:943][ 62]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-16.06.42:064][ 62]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-16.06.42:068][ 62]Display: HotReload took  0.2s.
+[2021.05.15-16.22.33:294][995]LogHotReload: New module detected: UE4Editor-GameMathematics-0008.dll
+[2021.05.15-16.22.34:331][999]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-16.22.34:394][999]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2021.05.15-16.22.34:404][999]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-16.22.34:591][999]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-16.22.34:595][999]Display: HotReload took  0.3s.
+[2021.05.15-16.22.53:493][587]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.05.15-16.22.53:494][587]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.05.15-16.22.55:438][689]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.05.15-16.23.11:560][653]Running D:/Program Files/Epic Games/UE_4.25/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/GameMathematics.uproject" -game -rocket -progress
+[2021.05.15-16.23.11:978][653]Discovering modules, targets and source code for project...
+[2021.05.15-16.23.14:897][653]Binding IntelliSense data...
+[2021.05.15-16.23.17:132][653]Binding IntelliSense data... 100%
+[2021.05.15-16.23.17:132][653]Writing project files...
+[2021.05.15-16.23.21:160][653]Writing project files... 100%
+[2021.05.15-16.23.21:415][653]Candidate modules for hot reload:
+[2021.05.15-16.23.21:415][653]  GameMathematics
+[2021.05.15-16.23.21:415][653]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.25/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GameMathematics,6555 GameMathematicsEditor Win64 Development -Project="D:/UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/GameMathematics.uproject" "D:/UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/GameMathematics.uproject"  -IgnoreJunk]
+[2021.05.15-16.23.25:891][653]CompilerResultsLog: New page: Compilation - May 15, 2021, 6:23:25 AM
+[2021.05.15-16.23.25:891][653]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealProjects\OwnProjects\UE4GameMathematics).
+[2021.05.15-16.23.25:891][653]CompilerResultsLog: Creating makefile for GameMathematicsEditor (no existing makefile)
+[2021.05.15-16.23.25:891][653]CompilerResultsLog: Building GameMathematicsEditor...
+[2021.05.15-16.23.25:891][653]CompilerResultsLog: Using Visual Studio 2019 14.28.29910 toolchain (D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.15-16.23.25:891][653]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.05.15-16.23.25:891][653]CompilerResultsLog:   [1/4] OwnMathematics.cpp
+[2021.05.15-16.23.25:891][653]CompilerResultsLog:   [2/4] UE4Editor-GameMathematics-6555.lib
+[2021.05.15-16.23.25:891][653]CompilerResultsLog:      Creating library D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-6555.lib and object D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-6555.exp
+[2021.05.15-16.23.25:891][653]CompilerResultsLog:   [3/4] UE4Editor-GameMathematics-6555.dll
+[2021.05.15-16.23.25:891][653]CompilerResultsLog:      Creating library D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-6555.suppressed.lib and object D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\UE4Editor-GameMathematics-6555.suppressed.exp
+[2021.05.15-16.23.25:891][653]CompilerResultsLog:   [4/4] GameMathematicsEditor.target
+[2021.05.15-16.23.25:891][653]CompilerResultsLog: Total time in Parallel executor: 1.98 seconds
+[2021.05.15-16.23.25:891][653]CompilerResultsLog: Total execution time: 4.14 seconds
+[2021.05.15-16.23.25:891][653]LogMainFrame: MainFrame: Module compiling took 4.483 seconds
+[2021.05.15-16.23.25:933][653]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2021.05.15-16.23.25:946][653]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-16.23.26:138][653]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-16.23.26:138][653]Display: HotReload took  4.8s.
+[2021.05.15-16.23.26:155][653]Warning: HotReload operation took  4.8s.
+[2021.05.15-16.23.26:710][653]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.05.15-16.23.27:084][653]LogHotReload: New module detected: UE4Editor-GameMathematics-6555.dll
+[2021.05.15-16.23.27:156][654]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-16.23.27:198][654]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2021.05.15-16.23.27:208][654]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-16.23.27:228][654]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-16.23.27:233][654]Display: HotReload took  0.1s.
+[2021.05.15-17.05.16:420][467]LogHotReload: New module detected: UE4Editor-GameMathematics-0011.dll
+[2021.05.15-17.05.17:782][472]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-17.05.17:913][472]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2021.05.15-17.05.17:926][472]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-17.05.18:203][472]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-17.05.18:207][472]Display: HotReload took  0.4s.
+[2021.05.15-17.09.48:380][346]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.14.40:946][781]LogHotReload: New module detected: UE4Editor-GameMathematics-0012.dll
+[2021.05.15-17.14.42:643][787]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-17.14.42:691][787]LogClass: Could not find existing class ShipPawn in package /Script/GameMathematics for HotReload, assuming new class
+[2021.05.15-17.14.42:703][787]LogHotReload: Re-instancing ShipPawn after hot-reload.
+[2021.05.15-17.14.42:908][787]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2021.05.15-17.14.42:920][787]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-17.14.43:161][787]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-17.14.43:164][787]Display: HotReload took  0.5s.
+[2021.05.15-17.15.38:193][ 91]LogUObjectHash: Compacting FUObjectHashTables data took  12.79ms
+[2021.05.15-17.15.39:517][164]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.15-17.15.39:531][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.15.39:531][164]PIE: New page: PIE session: 2DMathematics (May 15, 2021, 7:15:39 AM)
+[2021.05.15-17.15.39:531][164]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.15.39:537][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005693s)
+[2021.05.15-17.15.39:539][164]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.15.39:539][164]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000274D9B6A400), frame # 50164
+[2021.05.15-17.15.39:539][164]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002751DAD96C0), frame # 50164
+[2021.05.15-17.15.39:540][164]LogPlayLevel: PIE: World Init took: (0.002271s)
+[2021.05.15-17.15.39:540][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.008171s)
+[2021.05.15-17.15.39:886][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.05.15-17.15.39:891][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.15.39:891][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.15.39:891][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.15.39:891][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.15.39:891][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.15.39:891][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.15.39:891][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.15.39:891][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.15.39:891][164]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.15.39:891][164]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.15.39:894][164]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.15.39:894][164]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.15.39:974][164]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.15.39:977][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.15.39:977][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.15.39:977][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.15.39:979][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.15.39:994][164]LogInit: FAudioDevice initialized.
+[2021.05.15-17.15.40:009][164]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.15.40:011][164]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.15.40
+[2021.05.15-17.15.40:011][164]LogWorld: Bringing up level for play took: 0.000856
+[2021.05.15-17.15.40:011][164]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.05.15-17.15.40:014][164]PIE: Server logged in
+[2021.05.15-17.15.40:014][164]PIE: Play in editor total start time 0.489 seconds.
+[2021.05.15-17.15.42:997][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.15.42:997][339]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.15.42:997][339]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.15.42:997][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.15.43:008][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.15.43:012][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.15.43:057][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.15.43:058][339]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002751DAD96C0), frame # 50339
+[2021.05.15-17.15.43:058][339]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000274D9B6A400), frame # 50339
+[2021.05.15-17.15.43:062][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.05.15-17.15.43:083][340]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.05.15-17.15.47:616][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.15.47:616][605]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:15:47 AM)
+[2021.05.15-17.15.47:616][605]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.15.47:620][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003419s)
+[2021.05.15-17.15.47:621][605]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.15.47:621][605]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027503D58A00), frame # 50605
+[2021.05.15-17.15.47:621][605]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027504CB3D80), frame # 50605
+[2021.05.15-17.15.47:622][605]LogPlayLevel: PIE: World Init took: (0.001936s)
+[2021.05.15-17.15.47:622][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.005565s)
+[2021.05.15-17.15.47:648][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.05.15-17.15.47:651][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.15.47:652][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.15.47:652][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.15.47:652][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.15.47:652][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.15.47:652][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.15.47:652][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.15.47:652][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.15.47:652][605]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.15.47:652][605]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.15.47:654][605]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.15.47:654][605]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.15.47:739][605]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.15.47:739][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.15.47:739][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.15.47:739][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.15.47:740][605]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.15.47:756][605]LogInit: FAudioDevice initialized.
+[2021.05.15-17.15.47:765][605]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.15.47:766][605]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.15.47
+[2021.05.15-17.15.47:767][605]LogWorld: Bringing up level for play took: 0.000586
+[2021.05.15-17.15.47:767][605]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.05.15-17.15.47:768][605]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.15.47:964][605]PIE: Server logged in
+[2021.05.15-17.15.47:965][605]PIE: Play in editor total start time 0.35 seconds.
+[2021.05.15-17.15.51:724][823]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.15.53:198][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.15.53:198][906]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.15.53:217][906]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.15.53:217][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.15.53:241][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.15.53:247][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.15.53:269][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.15.53:394][906]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027504CB3D80), frame # 50906
+[2021.05.15-17.15.53:395][906]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027503D58A00), frame # 50906
+[2021.05.15-17.15.53:398][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.05.15-17.15.53:413][907]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.15-17.22.24:501][385]LogHotReload: New module detected: UE4Editor-GameMathematics-0013.dll
+[2021.05.15-17.22.25:859][390]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-17.22.25:907][390]LogClass: Could not find existing class ShipPawn in package /Script/GameMathematics for HotReload, assuming new class
+[2021.05.15-17.22.25:916][390]LogHotReload: Re-instancing ShipPawn after hot-reload.
+[2021.05.15-17.22.25:980][390]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0010 seconds. Added 2 classes and 3 folders.
+[2021.05.15-17.22.25:985][390]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-17.22.26:091][390]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-17.22.26:094][390]Display: HotReload took  0.2s.
+[2021.05.15-17.22.38:007][539]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.22.38:016][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.22.38:016][539]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:22:38 AM)
+[2021.05.15-17.22.38:046][539]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.22.38:050][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003507s)
+[2021.05.15-17.22.38:051][539]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.22.38:051][539]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027567586000), frame # 52539
+[2021.05.15-17.22.38:051][539]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275599D7D80), frame # 52539
+[2021.05.15-17.22.38:052][539]LogPlayLevel: PIE: World Init took: (0.002284s)
+[2021.05.15-17.22.38:052][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.006053s)
+[2021.05.15-17.22.38:134][539]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.05.15-17.22.38:138][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.22.38:138][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.22.38:138][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.22.38:138][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.22.38:138][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.22.38:138][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.22.38:138][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.22.38:138][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.22.38:138][539]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.22.38:138][539]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.22.38:142][539]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.22.38:142][539]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.22.38:234][539]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.22.38:234][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.22.38:234][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.22.38:234][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.22.38:235][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.22.38:252][539]LogInit: FAudioDevice initialized.
+[2021.05.15-17.22.38:263][539]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.22.38:265][539]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.22.38
+[2021.05.15-17.22.38:265][539]LogWorld: Bringing up level for play took: 0.000665
+[2021.05.15-17.22.38:265][539]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.05.15-17.22.38:267][539]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.22.38:268][539]PIE: Server logged in
+[2021.05.15-17.22.38:268][539]PIE: Play in editor total start time 0.256 seconds.
+[2021.05.15-17.22.38:901][573]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.15-17.22.42:818][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.22.42:818][804]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.22.42:819][804]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.22.42:819][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.22.42:831][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.22.42:835][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.22.42:884][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.22.42:888][804]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275599D7D80), frame # 52804
+[2021.05.15-17.22.42:888][804]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027567586000), frame # 52804
+[2021.05.15-17.22.42:910][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.05.15-17.22.42:928][805]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.05.15-17.22.50:030][224]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.22.50:037][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.22.50:037][224]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:22:50 AM)
+[2021.05.15-17.22.50:037][224]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.22.50:041][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003084s)
+[2021.05.15-17.22.50:042][224]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.22.50:042][224]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027559607A00), frame # 53224
+[2021.05.15-17.22.50:042][224]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002755599AD40), frame # 53224
+[2021.05.15-17.22.50:042][224]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2021.05.15-17.22.50:042][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004848s)
+[2021.05.15-17.22.50:069][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.05.15-17.22.50:071][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.22.50:071][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.22.50:071][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.22.50:071][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.22.50:071][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.22.50:071][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.22.50:071][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.22.50:071][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.22.50:072][224]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.22.50:072][224]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.22.50:074][224]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.22.50:074][224]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.22.50:168][224]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.22.50:168][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.22.50:168][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.22.50:168][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.22.50:169][224]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.22.50:187][224]LogInit: FAudioDevice initialized.
+[2021.05.15-17.22.50:195][224]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.22.50:197][224]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.22.50
+[2021.05.15-17.22.50:197][224]LogWorld: Bringing up level for play took: 0.000757
+[2021.05.15-17.22.50:197][224]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.05.15-17.22.50:199][224]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.22.50:199][224]PIE: Server logged in
+[2021.05.15-17.22.50:200][224]PIE: Play in editor total start time 0.163 seconds.
+[2021.05.15-17.22.53:279][405]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.23.08:150][737]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.15-17.23.08:668][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.23.08:668][764]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.23.08:668][764]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.23.08:669][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.23.08:682][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.23.08:687][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.23.08:712][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.23.08:743][764]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002755599AD40), frame # 53764
+[2021.05.15-17.23.08:743][764]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027559607A00), frame # 53764
+[2021.05.15-17.23.08:746][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.15-17.23.08:763][765]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.05.15-17.23.11:739][943]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.23.12:962][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.15-17.25.22:892][545]LogHotReload: New module detected: UE4Editor-GameMathematics-0014.dll
+[2021.05.15-17.25.23:924][549]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-17.25.23:985][549]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2021.05.15-17.25.23:994][549]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-17.25.24:105][549]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-17.25.24:109][549]Display: HotReload took  0.2s.
+[2021.05.15-17.25.28:749][713]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.25.28:759][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.25.28:759][713]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:25:28 AM)
+[2021.05.15-17.25.28:759][713]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.25.28:762][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002259s)
+[2021.05.15-17.25.28:763][713]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.25.28:763][713]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000274D9B6B600), frame # 54713
+[2021.05.15-17.25.28:763][713]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275597D0540), frame # 54713
+[2021.05.15-17.25.28:763][713]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2021.05.15-17.25.28:764][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004172s)
+[2021.05.15-17.25.28:838][713]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2021.05.15-17.25.28:840][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.25.28:840][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.25.28:840][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.25.28:840][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.25.28:840][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.25.28:840][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.25.28:840][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.25.28:840][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.25.28:841][713]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.25.28:841][713]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.25.28:843][713]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.25.28:843][713]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.25.28:931][713]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.25.28:932][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.25.28:932][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.25.28:932][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.25.28:933][713]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.25.28:955][713]LogInit: FAudioDevice initialized.
+[2021.05.15-17.25.28:964][713]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.25.28:966][713]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.25.28
+[2021.05.15-17.25.28:966][713]LogWorld: Bringing up level for play took: 0.001027
+[2021.05.15-17.25.28:967][713]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.05.15-17.25.28:969][713]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.25.28:969][713]PIE: Server logged in
+[2021.05.15-17.25.28:970][713]PIE: Play in editor total start time 0.216 seconds.
+[2021.05.15-17.25.29:621][747]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.15-17.25.31:068][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.25.31:068][830]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.25.31:069][830]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.25.31:069][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.25.31:080][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.25.31:085][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.25.31:106][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.25.31:139][830]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275597D0540), frame # 54830
+[2021.05.15-17.25.31:139][830]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000274D9B6B600), frame # 54830
+[2021.05.15-17.25.31:157][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.05.15-17.25.31:174][831]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.05.15-17.25.35:229][ 74]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.25.41:090][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.05.15-17.25.41:107][416]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics2FB88CE245E9188639BD8B9A83FB5E18.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-17.25.41:127][416]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltData0CE812F1461467E11088A3A0CC39F684.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-17.25.41:150][416]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-17.25.41:150][416]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-17.25.41:151][416]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-17.25.42:985][520]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.25.42:992][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.25.42:992][520]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:25:42 AM)
+[2021.05.15-17.25.42:992][520]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.25.42:995][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002047s)
+[2021.05.15-17.25.42:996][520]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.25.42:996][520]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002752434FE00), frame # 55520
+[2021.05.15-17.25.42:996][520]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002752434BD80), frame # 55520
+[2021.05.15-17.25.42:997][520]LogPlayLevel: PIE: World Init took: (0.002198s)
+[2021.05.15-17.25.42:997][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004443s)
+[2021.05.15-17.25.43:028][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.05.15-17.25.43:029][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.25.43:029][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.25.43:029][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.25.43:029][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.25.43:029][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.25.43:029][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.25.43:029][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.25.43:029][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.25.43:030][520]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.25.43:030][520]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.25.43:033][520]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.25.43:033][520]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.25.43:115][520]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.25.43:116][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.25.43:116][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.25.43:116][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.25.43:116][520]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.25.43:136][520]LogInit: FAudioDevice initialized.
+[2021.05.15-17.25.43:142][520]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.25.43:144][520]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.25.43
+[2021.05.15-17.25.43:144][520]LogWorld: Bringing up level for play took: 0.000833
+[2021.05.15-17.25.43:144][520]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.05.15-17.25.43:145][520]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.25.43:146][520]PIE: Server logged in
+[2021.05.15-17.25.43:147][520]PIE: Play in editor total start time 0.155 seconds.
+[2021.05.15-17.25.45:198][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.25.45:198][638]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.25.45:198][638]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.25.45:198][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.25.45:208][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.25.45:213][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.25.45:273][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.25.45:273][638]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002752434BD80), frame # 55638
+[2021.05.15-17.25.45:273][638]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002752434FE00), frame # 55638
+[2021.05.15-17.25.45:277][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.15-17.25.45:291][639]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.05.15-17.25.46:564][715]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.25.51:189][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.05.15-17.25.51:207][984]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics147C561E4A4B1A9A63680A965567C3E6.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-17.25.51:225][984]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltDataE460B50941525DA8A08FBBB9D2ACCC69.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-17.25.51:246][984]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-17.25.51:246][984]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-17.25.51:246][984]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-17.25.52:736][ 70]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.25.52:741][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.25.52:741][ 70]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:25:52 AM)
+[2021.05.15-17.25.52:741][ 70]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.25.52:743][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002302s)
+[2021.05.15-17.25.52:745][ 70]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.25.52:745][ 70]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000274EC7D5200), frame # 56070
+[2021.05.15-17.25.52:745][ 70]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275547B5300), frame # 56070
+[2021.05.15-17.25.52:745][ 70]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2021.05.15-17.25.52:745][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004035s)
+[2021.05.15-17.25.52:773][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.05.15-17.25.52:774][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.25.52:774][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.25.52:774][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.25.52:774][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.25.52:774][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.25.52:774][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.25.52:774][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.25.52:774][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.25.52:774][ 70]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.25.52:775][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.25.52:776][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.25.52:776][ 70]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.25.52:858][ 70]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.25.52:858][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.25.52:859][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.25.52:859][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.25.52:860][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.25.52:875][ 70]LogInit: FAudioDevice initialized.
+[2021.05.15-17.25.52:887][ 70]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.25.52:888][ 70]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.25.52
+[2021.05.15-17.25.52:888][ 70]LogWorld: Bringing up level for play took: 0.000566
+[2021.05.15-17.25.52:889][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.15-17.25.52:890][ 70]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.25.52:891][ 70]PIE: Server logged in
+[2021.05.15-17.25.52:891][ 70]PIE: Play in editor total start time 0.152 seconds.
+[2021.05.15-17.25.59:717][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.25.59:717][473]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.25.59:718][473]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.25.59:718][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.25.59:728][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.25.59:732][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.25.59:755][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.25.59:783][473]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275547B5300), frame # 56473
+[2021.05.15-17.25.59:783][473]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000274EC7D5200), frame # 56473
+[2021.05.15-17.25.59:786][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.05.15-17.25.59:802][474]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.15-17.26.01:236][560]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.26.07:098][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.05.15-17.26.07:112][904]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematicsE222B6B24310B18BDE2B23B652F8E3E5.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-17.26.07:133][904]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltData193238F84E35B7EEE2DE878DCBAD116B.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-17.26.07:154][904]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-17.26.07:154][904]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-17.26.07:154][904]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-17.26.18:696][  0]LogHotReload: New module detected: UE4Editor-GameMathematics-0015.dll
+[2021.05.15-17.26.19:735][  4]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-17.26.19:793][  4]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2021.05.15-17.26.19:798][  4]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-17.26.19:908][  4]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-17.26.19:912][  4]Display: HotReload took  0.2s.
+[2021.05.15-17.26.39:974][208]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.26.39:983][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.26.39:984][208]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:26:39 AM)
+[2021.05.15-17.26.39:984][208]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.26.39:988][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003734s)
+[2021.05.15-17.26.39:989][208]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.26.39:989][208]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002750A10FC00), frame # 57208
+[2021.05.15-17.26.39:989][208]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027564234400), frame # 57208
+[2021.05.15-17.26.39:989][208]LogPlayLevel: PIE: World Init took: (0.001663s)
+[2021.05.15-17.26.39:989][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.005595s)
+[2021.05.15-17.26.40:068][208]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.05.15-17.26.40:070][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.26.40:070][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.26.40:070][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.26.40:070][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.26.40:070][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.26.40:070][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.26.40:070][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.26.40:070][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.26.40:071][208]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.26.40:071][208]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.26.40:072][208]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.26.40:072][208]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.26.40:166][208]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.26.40:167][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.26.40:167][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.26.40:167][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.26.40:168][208]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.26.40:193][208]LogInit: FAudioDevice initialized.
+[2021.05.15-17.26.40:202][208]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.26.40:202][208]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.26.40
+[2021.05.15-17.26.40:204][208]LogWorld: Bringing up level for play took: 0.000624
+[2021.05.15-17.26.40:204][208]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.15-17.26.40:204][208]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.26.40:205][208]PIE: Server logged in
+[2021.05.15-17.26.40:205][208]PIE: Play in editor total start time 0.226 seconds.
+[2021.05.15-17.26.43:368][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.26.43:368][394]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.26.43:368][394]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.26.43:368][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.26.43:379][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.26.43:384][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.26.43:438][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.26.43:442][394]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027564234400), frame # 57394
+[2021.05.15-17.26.43:442][394]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002750A10FC00), frame # 57394
+[2021.05.15-17.26.43:465][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.05.15-17.26.43:481][395]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.15-17.26.45:682][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.15-17.26.47:148][612]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.26.48:837][711]Cmd: DUPLICATE
+[2021.05.15-17.26.48:837][711]Cmd: ACTOR DUPLICATE
+[2021.05.15-17.26.56:208][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.05.15-17.26.56:227][116]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematicsB9B7670D4CE7D0CC0C936E9AFB798488.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-17.26.56:244][116]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltDataF4FE6DB4462208584AB6698D90409DDF.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-17.26.56:267][116]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-17.26.56:267][116]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-17.26.56:267][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-17.26.57:970][213]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.26.57:975][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.26.57:975][213]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:26:57 AM)
+[2021.05.15-17.26.57:975][213]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.26.57:978][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002975s)
+[2021.05.15-17.26.57:980][213]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.26.57:980][213]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002750D3D5000), frame # 58213
+[2021.05.15-17.26.57:980][213]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002755959EC00), frame # 58213
+[2021.05.15-17.26.57:981][213]LogPlayLevel: PIE: World Init took: (0.002451s)
+[2021.05.15-17.26.57:981][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.005693s)
+[2021.05.15-17.26.58:015][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.05.15-17.26.58:017][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.26.58:017][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.26.58:017][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.26.58:017][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.26.58:017][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.26.58:017][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.26.58:017][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.26.58:017][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.26.58:018][213]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.26.58:018][213]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.26.58:019][213]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.26.58:019][213]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.26.58:101][213]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.26.58:101][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.26.58:102][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.26.58:102][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.26.58:102][213]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.26.58:119][213]LogInit: FAudioDevice initialized.
+[2021.05.15-17.26.58:128][213]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.26.58:129][213]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.26.58
+[2021.05.15-17.26.58:129][213]LogWorld: Bringing up level for play took: 0.000639
+[2021.05.15-17.26.58:129][213]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.15-17.26.58:131][213]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.26.58:131][213]PIE: Server logged in
+[2021.05.15-17.26.58:132][213]PIE: Play in editor total start time 0.157 seconds.
+[2021.05.15-17.27.01:367][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.27.01:367][403]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.27.01:367][403]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.27.01:368][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.27.01:379][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.27.01:388][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.27.01:411][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.27.01:437][403]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002755959EC00), frame # 58403
+[2021.05.15-17.27.01:438][403]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002750D3D5000), frame # 58403
+[2021.05.15-17.27.01:441][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.05.15-17.27.01:462][404]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.15-17.27.28:406][587]LogHotReload: New module detected: UE4Editor-GameMathematics-0016.dll
+[2021.05.15-17.27.29:431][591]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.15-17.27.29:488][591]LogContentBrowser: Native class hierarchy updated for 'GameMathematics' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2021.05.15-17.27.29:495][591]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.15-17.27.29:596][591]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3429 classes and 824 folders.
+[2021.05.15-17.27.29:601][591]Display: HotReload took  0.2s.
+[2021.05.15-17.27.32:198][656]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.27.37:159][947]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn2)
+[2021.05.15-17.27.40:657][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.05.15-17.27.40:673][149]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematicsB6C990FC44CB0461D4F54E9329244661.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-17.27.40:690][149]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltDataE509D85044E64C53F66489A9EABDEA5D.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-17.27.40:713][149]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-17.27.40:713][149]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-17.27.40:713][149]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-17.27.42:365][244]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.27.42:377][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.27.42:377][244]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:27:42 AM)
+[2021.05.15-17.27.42:377][244]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.27.42:379][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002241s)
+[2021.05.15-17.27.42:381][244]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.27.42:382][244]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000275547C1200), frame # 59244
+[2021.05.15-17.27.42:382][244]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275678B3D80), frame # 59244
+[2021.05.15-17.27.42:382][244]LogPlayLevel: PIE: World Init took: (0.002458s)
+[2021.05.15-17.27.42:382][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004909s)
+[2021.05.15-17.27.42:432][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.05.15-17.27.42:433][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.27.42:433][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.27.42:433][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.27.42:433][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.27.42:433][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.27.42:433][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.27.42:433][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.27.42:434][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.27.42:434][244]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.27.42:434][244]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.27.42:437][244]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.27.42:437][244]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.27.42:516][244]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.27.42:516][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.27.42:517][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.27.42:517][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.27.42:517][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.27.42:536][244]LogInit: FAudioDevice initialized.
+[2021.05.15-17.27.42:544][244]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.27.42:545][244]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.27.42
+[2021.05.15-17.27.42:546][244]LogWorld: Bringing up level for play took: 0.000745
+[2021.05.15-17.27.42:546][244]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.15-17.27.42:548][244]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.27.42:548][244]PIE: Server logged in
+[2021.05.15-17.27.42:549][244]PIE: Play in editor total start time 0.177 seconds.
+[2021.05.15-17.27.46:608][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.27.46:608][480]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.27.46:608][480]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.27.46:608][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.27.46:622][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.27.46:628][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.27.46:672][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.27.46:673][480]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275678B3D80), frame # 59480
+[2021.05.15-17.27.46:673][480]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000275547C1200), frame # 59480
+[2021.05.15-17.27.46:677][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.05.15-17.27.46:692][481]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.15-17.27.47:878][551]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.27.53:404][879]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn2)
+[2021.05.15-17.27.56:909][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.05.15-17.27.56:927][ 84]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics02B06B41420D6F7899A6ED994845CB19.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-17.27.56:946][ 84]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltDataA47EAED7471208B7CF934FAD69B90CDA.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-17.27.56:967][ 84]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-17.27.56:967][ 84]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-17.27.56:968][ 84]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-17.27.59:044][206]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.27.59:052][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.27.59:052][206]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:27:59 AM)
+[2021.05.15-17.27.59:052][206]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.27.59:055][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002231s)
+[2021.05.15-17.27.59:056][206]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.27.59:056][206]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002750CFF1200), frame # 60206
+[2021.05.15-17.27.59:056][206]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002755651A340), frame # 60206
+[2021.05.15-17.27.59:056][206]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2021.05.15-17.27.59:056][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004258s)
+[2021.05.15-17.27.59:084][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.05.15-17.27.59:085][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.27.59:085][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.27.59:085][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.27.59:085][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.27.59:085][206]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.27.59:085][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.27.59:085][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.27.59:085][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.27.59:086][206]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.27.59:086][206]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.27.59:088][206]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.27.59:088][206]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.27.59:168][206]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.27.59:168][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.27.59:169][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.27.59:169][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.27.59:169][206]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.27.59:184][206]LogInit: FAudioDevice initialized.
+[2021.05.15-17.27.59:196][206]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.27.59:198][206]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.27.59
+[2021.05.15-17.27.59:198][206]LogWorld: Bringing up level for play took: 0.001144
+[2021.05.15-17.27.59:198][206]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.15-17.27.59:200][206]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.27.59:200][206]PIE: Server logged in
+[2021.05.15-17.27.59:202][206]PIE: Play in editor total start time 0.15 seconds.
+[2021.05.15-17.28.06:477][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.28.06:477][633]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.28.06:478][633]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.28.06:478][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.28.06:485][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.28.06:490][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.28.06:520][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.28.06:550][633]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002755651A340), frame # 60633
+[2021.05.15-17.28.06:550][633]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002750CFF1200), frame # 60633
+[2021.05.15-17.28.06:556][633]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.05.15-17.28.06:575][634]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.15-17.28.07:868][709]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.28.13:485][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn2)
+[2021.05.15-17.28.17:366][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.15-17.28.17:382][272]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics901EE2484F0FD6CF4DD2C4A8AAA15867.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-17.28.17:402][272]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltData25521C054927CA3C070F8BA03516F32E.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-17.28.17:430][272]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-17.28.17:430][272]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-17.28.17:430][272]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-17.28.19:099][365]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.28.19:104][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.28.19:104][365]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:28:19 AM)
+[2021.05.15-17.28.19:104][365]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.28.19:107][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002371s)
+[2021.05.15-17.28.19:108][365]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.28.19:108][365]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000274D75AA600), frame # 61365
+[2021.05.15-17.28.19:108][365]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000275109FE0C0), frame # 61365
+[2021.05.15-17.28.19:109][365]LogPlayLevel: PIE: World Init took: (0.001921s)
+[2021.05.15-17.28.19:109][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.004596s)
+[2021.05.15-17.28.19:136][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.05.15-17.28.19:138][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.28.19:138][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.28.19:138][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.28.19:138][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.28.19:138][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.28.19:138][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.28.19:138][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.28.19:138][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.28.19:138][365]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.28.19:138][365]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.28.19:140][365]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.28.19:140][365]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.28.19:222][365]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.28.19:223][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.28.19:223][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.28.19:223][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.28.19:223][365]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.28.19:239][365]LogInit: FAudioDevice initialized.
+[2021.05.15-17.28.19:251][365]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.28.19:252][365]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.28.19
+[2021.05.15-17.28.19:253][365]LogWorld: Bringing up level for play took: 0.000656
+[2021.05.15-17.28.19:253][365]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.05.15-17.28.19:254][365]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.28.19:255][365]PIE: Server logged in
+[2021.05.15-17.28.19:255][365]PIE: Play in editor total start time 0.152 seconds.
+[2021.05.15-17.28.26:108][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.28.26:108][774]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.28.26:108][774]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.28.26:108][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.28.26:115][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.28.26:120][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.28.26:145][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.28.26:170][774]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000275109FE0C0), frame # 61774
+[2021.05.15-17.28.26:170][774]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000274D75AA600), frame # 61774
+[2021.05.15-17.28.26:173][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.05.15-17.28.26:198][775]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.05.15-17.28.29:131][951]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn)
+[2021.05.15-17.28.34:200][252]LogEditorViewport: Clicking on Actor (LMB): BP_ShipPawn_C (BP_ShipPawn2)
+[2021.05.15-17.28.38:165][485]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.05.15-17.28.38:180][485]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematicsD105E0AF4D261D28055A1E80C64404F9.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics.umap'
+[2021.05.15-17.28.38:198][485]LogSavePackage: Moving '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Saved/2DMathematics_BuiltData38DE04014DFD10B48E3B26AB010FFEB1.tmp' to '../../../../../../../UnrealProjects/OwnProjects/UE4GameMathematics/GameMathematics/Content/Levels/2DMathematics_BuiltData.uasset'
+[2021.05.15-17.28.38:218][485]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.15-17.28.38:218][485]LogContentValidation: Display: Validating World /Game/Levels/2DMathematics.2DMathematics
+[2021.05.15-17.28.38:218][485]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/2DMathematics_BuiltData.2DMathematics_BuiltData
+[2021.05.15-17.28.39:861][580]LogTemp: Repeating last play command: Simulate
+[2021.05.15-17.28.39:868][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.15-17.28.39:868][580]PIE: New page: SIE session: 2DMathematics (May 15, 2021, 7:28:39 AM)
+[2021.05.15-17.28.39:868][580]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.28.39:870][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002533s)
+[2021.05.15-17.28.39:872][580]LogAIModule: Creating AISystem for world 2DMathematics
+[2021.05.15-17.28.39:873][580]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027505E91000), frame # 62580
+[2021.05.15-17.28.39:873][580]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027567BE1440), frame # 62580
+[2021.05.15-17.28.39:873][580]LogPlayLevel: PIE: World Init took: (0.002350s)
+[2021.05.15-17.28.39:873][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/2DMathematics.2DMathematics to /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics (0.005052s)
+[2021.05.15-17.28.39:899][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.05.15-17.28.39:900][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.15-17.28.39:900][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.15-17.28.39:900][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.15-17.28.39:900][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.15-17.28.39:900][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.15-17.28.39:900][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.15-17.28.39:900][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.15-17.28.39:900][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.15-17.28.39:901][580]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.15-17.28.39:901][580]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.15-17.28.39:902][580]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.15-17.28.39:902][580]LogAudioMixer: Display: 1: FrontRight
+[2021.05.15-17.28.39:985][580]LogAudioMixer: Display: Using Audio Device HeadPhone/Digital Output (Realtek High Definition Audio)
+[2021.05.15-17.28.39:985][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.15-17.28.39:985][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.15-17.28.39:985][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.15-17.28.39:986][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.15-17.28.40:002][580]LogInit: FAudioDevice initialized.
+[2021.05.15-17.28.40:013][580]LogLoad: Game class is 'GameModeBase'
+[2021.05.15-17.28.40:015][580]LogWorld: Bringing World /Game/Levels/UEDPIE_0_2DMathematics.2DMathematics up for play (max tick rate 60) at 2021.05.15-12.28.40
+[2021.05.15-17.28.40:015][580]LogWorld: Bringing up level for play took: 0.000572
+[2021.05.15-17.28.40:015][580]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.05.15-17.28.40:016][580]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.15-17.28.40:017][580]PIE: Server logged in
+[2021.05.15-17.28.40:018][580]PIE: Play in editor total start time 0.151 seconds.
+[2021.05.15-17.28.44:908][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.28.44:908][869]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_2DMathematics
+[2021.05.15-17.28.44:909][869]LogWorld: UWorld::CleanupWorld for 2DMathematics, bSessionEnded=true, bCleanupResources=true
+[2021.05.15-17.28.44:909][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.28.44:917][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.15-17.28.44:923][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.15-17.28.44:947][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.15-17.28.44:972][869]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027567BE1440), frame # 62869
+[2021.05.15-17.28.44:972][869]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027505E91000), frame # 62869
+[2021.05.15-17.28.44:975][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.05.15-17.28.44:991][870]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.05.15-17.30.01:532][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.05.15-17.30.02:830][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.15-17.30.02:977][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.15-17.30.03:160][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms

@@ -2,6 +2,8 @@
 
 
 #include "ShipPawn.h"
+#include "../Customize/Coordinates.h"
+#include "../Maths/OwnMathematics.h"
 
 // Sets default values
 AShipPawn::AShipPawn()
@@ -14,12 +16,19 @@ AShipPawn::AShipPawn()
 
 	AutoPossessPlayer = EAutoReceiveInput::Player0;
 
+	Speed = 0.5f;
+
 }
 
 // Called when the game starts or when spawned
 void AShipPawn::BeginPlay()
 {
 	Super::BeginPlay();
+
+	Direction = FVector(200,200,60) - this->GetActorLocation();
+
+	Coordinates normal = mathematics->GetNormal(Coordinates(Direction));
+	Direction = normal.ConvertToVector();
 	
 }
 
@@ -27,6 +36,16 @@ void AShipPawn::BeginPlay()
 void AShipPawn::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+
+
+	if (mathematics->GetDistance(FVector(200, 200, 60),GetActorLocation()) > 10.0f)
+	{
+		FVector NewLocation = GetActorLocation() + (Direction * Speed * GetWorld()->DeltaTimeSeconds);
+
+		this->SetActorLocation(NewLocation);
+	}
+	
 
 }
 

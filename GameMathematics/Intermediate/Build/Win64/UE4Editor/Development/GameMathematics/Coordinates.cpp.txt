@@ -1,0 +1,2 @@
+D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Intermediate\Build\Win64\UE4Editor\Development\GameMathematics\Definitions.GameMathematics.h
+D:\UnrealProjects\OwnProjects\UE4GameMathematics\GameMathematics\Source\GameMathematics\Customize\Coordinates.h
